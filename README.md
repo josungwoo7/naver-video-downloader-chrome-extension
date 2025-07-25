@@ -2,6 +2,10 @@
 
 네이버 카페와 블로그의 동영상을 쉽게 다운로드할 수 있는 Chrome 확장프로그램입니다.
 
+
+## 스크린샷
+<img width="459" height="605" alt="image" src="https://github.com/user-attachments/assets/fd28a922-b36d-49bc-9e92-be56e4be92f8" />
+
 ## ✨ 주요 기능
 
 - 🔍 **자동 비디오 감지**: 네이버 카페/블로그 페이지의 동영상을 자동으로 감지
